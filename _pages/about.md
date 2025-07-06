@@ -42,7 +42,7 @@ Selected Papers
 Talks and tutorials
 ======
 - *Introduction to Fairness in Machine Learning*, **CID-Rabat**, June 2025.
-- *Fairness in Federated Learning*, **METIS Spring School** and **FATE & Society reading group*, May 2025.
+- *Fairness in Federated Learning?*, **METIS Spring School** and **FATE & Society reading group*, May 2025.
 - *Bias in the Machine: Can AI Ever Be Fair?*, **Women Techmakers Montreal**
 - *"A technical and responsible lens on Privacy in Machine Learning"*, **Math&Maroc Webinar**, October 2024.
 - *"A short introduction to Fairness in Machine Learning"*, **AI Summer School**, Al Akhawayn University, July 2024; **Drug Discovery Summer School**, June 2024.
